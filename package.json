@@ -1,0 +1,22 @@
+{
+  "name": "certbot-aliyun",
+  "version": "1.0.0",
+  "description": "DNS",
+  "main": "alidns.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "certbot",
+    "aliyun"
+  ],
+  "author": "YuGao",
+  "license": "MIT"
+}
